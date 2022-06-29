@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },
+  "name": "api_dados",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "Iniciar o server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Smartucheli/hospedagem.git"
+  },
+  "author": "savio martucheli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Smartucheli/hospedagem/issues"
+  },
+  "homepage": "https://github.com/Smartucheli/hospedagem#readme",
+  "description": ""
+}
